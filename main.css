@@ -56,12 +56,13 @@ canvas {
   border-top-right-radius: 30px;
   background-color: #fff;
   width: 100%;
-  height: 55vh;
+  height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   position: relative;
   top: 20vh;
+  padding-bottom: 30px;
 }
 
 #icons {
